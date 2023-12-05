@@ -6,7 +6,7 @@ The LAION-Beyond dataset consists of 9 domains: Plants Fungi, Insects Spiders, A
 
 ## Analysis
 
-### Statistics of the class across 9 domains
+### Statistics of the class quantities across 9 domains
 ![Statistics of the class across 9 domains](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/LAION_Beyond_class_distribution.png "LAION Beyond Class Distribution")
 
 ### Statistics of the image quantities across 9 domains
@@ -15,7 +15,7 @@ The LAION-Beyond dataset consists of 9 domains: Plants Fungi, Insects Spiders, A
 ### Image Counts per Category
 ![Image Counts per Category](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/Image_Counts_per_category.png "Image Counts per Category")
 
-### Zeroshot Openclip Performance
+### Zeroshot of Openclip Performance
 ![ZeroshotCLIP Openclip Performance](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/ZeroshotCLIP_openclip_performance_horizontal.png "ZeroshotCLIP Openclip Performance Horizontal")
 
 ### Different Methods' Performance on LAION-Beyond's OOV images
