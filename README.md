@@ -6,13 +6,23 @@ The LAION-Beyond dataset consists of 9 domains: Plants Fungi, Insects Spiders, A
 
 ## Analysis
 
-![Statistics of the class across 9 domains](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/LAION_Beyond_class_distribution.png "LAION Beyond Class Distribution")
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 50%; padding-right: 10px;">
+    <img src="https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/LAION_Beyond_class_distribution.png" alt="LAION Beyond Class Distribution" title="Statistics of the class across 9 domains">
+  </div>
+  <div style="flex: 50%; padding-left: 10px;">
+    <img src="https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/OOV_vs_IV_Image_Counts.png" alt="OOV vs IV Image Counts" title="Statistics of the image quantities across 9 domains">
+  </div>
+</div>
 
-![Statistics of the image quantities across 9 domains](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/OOV_vs_IV_Image_Counts.png "OOV vs IV Image Counts")
-
-![Image Counts per Category](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/Image_Counts_per_category.png "Image Counts per Category")
-
-![ZeroshotCLIP Openclip Performance](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/ZeroshotCLIP_openclip_performance_horizontal.png "ZeroshotCLIP Openclip Performance Horizontal")
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 50%; padding-right: 10px;">
+    <img src="https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/Image_Counts_per_category.png" alt="Image Counts per Category" title="Image Counts per Category">
+  </div>
+  <div style="flex: 50%; padding-left: 10px;">
+    <img src="https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/ZeroshotCLIP_openclip_performance_horizontal.png" alt="ZeroshotCLIP Openclip Performance Horizontal" title="ZeroshotCLIP Openclip Performance">
+  </div>
+</div>
 
 ![Different Methods' Performance on LAION-Beyond](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/Different_Methods'_performance_on_LAION-Beyond.png "Different Methods' Performance on LAION-Beyond")
 
