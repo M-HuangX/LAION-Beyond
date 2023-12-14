@@ -20,7 +20,7 @@ Our pre-print paper and LAION-Beyond dataset will be released soon.
 ### Zeroshot of Openclip Performance
 ![ZeroshotCLIP Openclip Performance](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/ZeroshotCLIP_openclip_performance_horizontal.png "ZeroshotCLIP Openclip Performance Horizontal")
 
-### Different Methods' Performance on LAION-Beyond's OOV images
+### Different Methods' Performance on LAION-Beyond's OOV images (Ours: FSNL)
 ![Different Methods' Performance on LAION-Beyond](https://github.com/M-HuangX/LAION-Beyond/blob/master/assets/Different_Methods'_performance_on_LAION-Beyond.png "Different Methods' Performance on LAION-Beyond")
 
 
