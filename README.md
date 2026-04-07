@@ -6,9 +6,6 @@ This is the official code release for our CVPR 2025 paper:
 > CVPR 2025  
 > [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Reproducible_Vision-Language_Models_Meet_Concepts_Out_of_Pre-Training_CVPR_2025_paper.pdf) | [[Project Page]](https://m-huangx.github.io/laion_beyond/) | [[HuggingFace Dataset]](https://huggingface.co/datasets/MHuangX/LAION-Beyond) | [[Code]](https://github.com/M-HuangX/LAION-Beyond)
 
-<p align="center">
-  <img src="static/images/laion_beyond_banner.png" alt="LAION-Beyond Banner" width="100%">
-</p>
 
 ---
 
