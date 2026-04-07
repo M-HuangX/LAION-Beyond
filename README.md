@@ -138,6 +138,35 @@ cd ../FSNL
 
 ---
 
+## Dataset Download
+
+Download the full LAION-Beyond dataset from HuggingFace (~15GB):
+
+```python
+from huggingface_hub import snapshot_download
+
+local_dir = snapshot_download(
+    repo_id="MHuangX/LAION-Beyond",
+    repo_type="dataset",
+    local_dir="./LAION_Beyond"   # use this path as --root in experiments
+)
+```
+
+Or download a single domain only:
+
+```python
+local_dir = snapshot_download(
+    repo_id="MHuangX/LAION-Beyond",
+    repo_type="dataset",
+    local_dir="./LAION_Beyond",
+    allow_patterns="Animals42_IP/**"
+)
+```
+
+> Requires `pip install huggingface_hub`. Then pass the download path as `--root` when running experiments.
+
+---
+
 ## Running Experiments
 
 All experiments go through `train.py`.
