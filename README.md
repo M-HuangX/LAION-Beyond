@@ -1,4 +1,4 @@
-# FSNL: Few-Shot Name Learning
+# Few-Shot Name Learning & LAION-Beyond Benchmark
 
 This is the official code release for our CVPR 2025 paper:
 
