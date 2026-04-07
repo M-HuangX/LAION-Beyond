@@ -227,11 +227,12 @@ Generalized Category Discovery (GCD) experiments from the supplementary material
 If you use this code or the LAION-Beyond benchmark in your research, please cite:
 
 ```bibtex
-@InProceedings{chen2025laionbeyond,
-    author    = {Chen, Ziliang and Huang, Xin and Fan, Xiaoxuan and Wang, Keze and Zhou, Yuyu and Guan, Quanlong and Lin, Liang},
-    title     = {Reproducible Vision-Language Models Meet Concepts Out of Pre-Training},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year      = {2025}
+@inproceedings{chen2025reproducible,
+  title={Reproducible vision-language models meet concepts out of pre-training},
+  author={Chen, Ziliang and Huang, Xin and Fan, Xiaoxuan and Wang, Keze and Zhou, Yuyu and Guan, Quanlong and Lin, Liang},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={14701--14711},
+  year={2025}
 }
 ```
 
